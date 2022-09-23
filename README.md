@@ -1,7 +1,4 @@
-C:\Users\USER\Downloads
-![alt text for screen readers](/C:/Users/USER/Downloads/BellaBeatnew/to/image.png "Text to show on mouseover")
-![image](files://C:/Users/jzhang/Desktop/Isolated.png)
-[BellaBeatnew.pdf](https://github.com/nnamdisammie/Coursera-Project/files/9632900/BellaBeatnew.pdf)
+![Bellabeat project34](https://user-images.githubusercontent.com/98770304/191944196-bce58b6f-526c-4d8d-8efb-6122b801403a.jpg)
 
 ## Overview
 
