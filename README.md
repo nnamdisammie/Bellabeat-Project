@@ -18,8 +18,8 @@
   * Users who are sedentary and take minimal steps burn less calories compared to users who are more active and take more steps
   
   ## Recommendations
-  New innovation in the use of the app such that there is a weekly record on one's performance and a reward for high performance will go along way to serve as a good motivation.
-  Providing good orientation to the users on the need to be active especially during weekdays will be helpful since it could be drawn that good exercise activites promote good sleep.
-  The device should be modified such that there is a notification like a beat or vibration after a prolonged period of sedentary minutes, alerting the user it's time to get active. Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed. This way, there will be an active interaction between the app or device and the user.
+ * New innovation in the use of the app such that there is a weekly record on one's performance and a reward for high performance will go along way to serve as a good motivation.
+ * Providing good orientation to the users on the need to be active especially during weekdays will be helpful since it could be drawn that good exercise activites promote good sleep.
+ * The device should be modified such that there is a notification like a beat or vibration after a prolonged period of sedentary minutes, alerting the user it's time to get active. Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed. This way, there will be an active interaction between the app or device and the user.
   
-  When these are implemented, there will be more results and will encourage non-users to go for the products
+  *  When these are implemented, there will be more results and will encourage non-users to go for the products
