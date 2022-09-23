@@ -27,5 +27,5 @@
   
  ##### When these are implemented, there will be more results and will encourage non-users to go for the products
  
- <img src="" width="1500" height="400">
+ <img src="https://github.com/nnamdisammie/Coursera-Project/files/9633138/BellaBeatnew.pdf" width="1500" height="400">
 
