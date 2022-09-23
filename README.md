@@ -10,12 +10,12 @@
    
   ## Key Findings
   
-  About 80 percent of the users live more of a sendentary lifestyle and are not intensely involved in aerobic activites
-  Greater percentage of the users(21 users) were active for 31 days while a few were inconsistent
-  Good exercise activities can amount to burning much calories an in turn promote good sleep which is beneficial to the health
-  The users are most active on Saturday and least active on Sunday
-  Users takes the most steps during the day
-  Users who are sedentary and take minimal steps burn less calories compared to users who are more active and take more steps
+  *About 80 percent of the users live more of a sendentary lifestyle and are not intensely involved in aerobic activites
+  *Greater percentage of the users(21 users) were active for 31 days while a few were inconsistent
+  *Good exercise activities can amount to burning much calories an in turn promote good sleep which is beneficial to the health
+  *The users are most active on Saturday and least active on Sunday
+  *Users takes the most steps during the day
+  *Users who are sedentary and take minimal steps burn less calories compared to users who are more active and take more steps
   
   ## Recommendations
   New innovation in the use of the app such that there is a weekly record on one's performance and a reward for high performance will go along way to serve as a good motivation.
