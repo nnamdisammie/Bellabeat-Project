@@ -1,4 +1,8 @@
-![Bellabeat project34]("https://user-images.githubusercontent.com/98770304/191944196-bce58b6f-526c-4d8d-8efb-6122b801403a.jpg" width="500" height="500")
+![Bellabeat project34]
+
+<img scr="https://user-images.githubusercontent.com/98770304/191944196-bce58b6f-526c-4d8d-8efb-6122b801403a.jpg" width="500" height="500">
+
+<img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="500" height="500">
 
 ## Overview
 
