@@ -27,5 +27,5 @@
   
  ##### When these are implemented, there will be more results and will encourage non-users to go for the products
  
- <img src="https://user-images.githubusercontent.com/98770304/191951359-48612cbe-decb-475d-9566-a6c04e16b5bb.jpg" width="400" height="500">
+ <img src="https://user-images.githubusercontent.com/98770304/191953216-f933b27e-6678-4604-ad19-689d2c1ac0e2.jpg" width="400" height="500">
 
