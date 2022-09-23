@@ -26,3 +26,6 @@
  * The device should be modified such that there is a notification like a beat or vibration after a prolonged period of sedentary minutes, alerting the user it's time to get active. Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed. This way, there will be an active interaction between the app or device and the user.
   
  ##### When these are implemented, there will be more results and will encourage non-users to go for the products
+ 
+ <img src="" width="1500" height="400">
+
