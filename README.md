@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgary-yiu.com%2Fbellabeat-case-study%2F&psig=AOvVaw0rnP1VHcJylXNQKGcJSycg&ust=1664012356923000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDStsa5q_oCFQAAAAAdAAAAABAM" width="500" height="500">
+C:\Users\USER\Downloads
+![alt text for screen readers](/C:/Users/USER/Downloads/to/image.png "Text to show on mouseover")
 
 ## Overview
 
