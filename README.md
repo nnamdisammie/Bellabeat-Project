@@ -1,5 +1,6 @@
 # Coursera-Project
 Project on the analysis of the use of Bellabeat devices
+
 This case study is part of the Capstone Project for the Google Data Analytics Professional Certificate.
 
 BellaBeat was founded in 2013 as a women's health and fitness technology company. Their products are made for women to provide better tracking-technologies for health, wellness and fitness. BellaBeat consumers can use the information they record while using the apps and devices to assist in providing and advocating for overall better health.
