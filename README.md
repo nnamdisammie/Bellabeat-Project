@@ -1,3 +1,5 @@
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgary-yiu.com%2Fbellabeat-case-study%2F&psig=AOvVaw0rnP1VHcJylXNQKGcJSycg&ust=1664012356923000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDStsa5q_oCFQAAAAAdAAAAABAM" width="500" height="500">
+
 ## Overview
 
   This project is a part of the eighth and the final course in the Google Data Analytics Professional Certificate, where the opportunity was given to complete an optional case study. It is based on the analysis of the use of Bellabeat devices. I have carried out the project using python and also made visualizations with the use of Power BI which is shown at the end of this article.
