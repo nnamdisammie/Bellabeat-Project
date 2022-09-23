@@ -2,6 +2,8 @@
 
 <img src="![Bellabeat project](https://user-images.githubusercontent.com/98770304/191946704-f228cf21-fbb2-41e4-9c2c-297185498831.jpg)" width="500" height="500">
 
+![Bellabeat project](https://user-images.githubusercontent.com/98770304/191946704-f228cf21-fbb2-41e4-9c2c-297185498831.jpg width="500" height="500")
+
 ## Overview
 
   This project is a part of the eighth and the final course in the Google Data Analytics Professional Certificate, where the opportunity was given to complete an optional case study. It is based on the analysis of the use of Bellabeat devices. I have carried out the project using python and also made visualizations with the use of Power BI which is shown at the end of this article.
