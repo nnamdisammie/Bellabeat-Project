@@ -14,7 +14,7 @@
   ## Key Findings
   
   * About 80 percent of the users live more of a sendentary lifestyle and are not intensely involved in aerobic activites
-  * Greater percentage of the users(21 users) were active for 31 days while a few were inconsistent
+  * Greater percentage of the users (21 users) were active for 31 days while a few were inconsistent
   * Good exercise activities can amount to burning much calories an in turn promote good sleep which is beneficial to the health
   * The users are most active on Saturday and least active on Sunday
   * Users take the most steps roughly between the hours of 12 noon and 3 PM
