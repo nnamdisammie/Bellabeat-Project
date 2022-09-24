@@ -17,7 +17,7 @@
   * Greater percentage of the users(21 users) were active for 31 days while a few were inconsistent
   * Good exercise activities can amount to burning much calories an in turn promote good sleep which is beneficial to the health
   * The users are most active on Saturday and least active on Sunday
-  * Users takes the most steps during the day
+  * Users take the most steps roughly between the hours of 12 noon and 3 PM
   * Users who are sedentary and take minimal steps burn less calories compared to users who are more active and take more steps
   
   ## Recommendations
